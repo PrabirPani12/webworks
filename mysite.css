@@ -1,0 +1,135 @@
+.top-container {
+    height: 500px;
+    text-align: center;
+    background-image: url(images2/background2.jpg);
+    background-size: cover;
+}
+
+.middle1-container {
+    background-color: #d9e4dd;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+}
+.middle2-container{
+     background-color: #d9e4dd;
+    width: 80%;
+    margin: auto;
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+.middle3-container{
+      background-color: #d9e4dd;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    transition: width , height;
+    transition-duration: 2s;
+}
+.middle3-container:hover{
+    width: 800px;
+}
+
+.middle4-container{
+    width: 100%;
+    height: 495px;
+    overflow: hidden;
+    background: #f5f4f4;
+}
+
+.writings {
+    margin: auto;
+    padding-top: 150px;
+}
+
+.logo {
+    margin-bottom: 0;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.logo1 {
+    margin-top: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo2 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    color: #1aa6b7;
+    margin-bottom: 0;
+}
+
+.logo3 {
+     color: #1aa6b7;    
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 0;
+    padding-left: 300px;
+    padding-right: 300px;
+} 
+.logo4{
+     color: #1aa6b7;    
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 0;
+     padding-left: 200px;
+    padding-right: 300px;
+    text-align: left;
+}
+.logo5{
+    color: #1aa6b7;    
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    padding-left: 300px;
+    padding-right: 200px;  
+}
+
+.logo6{
+     font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    color: #1aa6b7;
+    text-align: left;
+    margin-left: 370px;
+    margin-top: 80px;
+}
+.logo7{
+   font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    color: #1aa6b7; 
+    margin-left: 100px;
+}
+.middle {
+    color: white;
+}
+
+.kiddo {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin-top: 40px;
+}
+.work-img{
+     height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin-right: 150px;
+    margin-top: 20px;
+    float: right;
+}
+.kiddo1{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    margin-left: 150px;
+    float: left;
+}
+
+.col-left{
+    width: 50%;
+    min-width: 707px;
+    margin-right: 5%;
+}
+.col-right{   
+    width: 40%;
+    padding-right: 7%;
+}
